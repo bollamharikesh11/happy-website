@@ -1,0 +1,51 @@
+.pic{
+    height: 100vh;
+    margin-left: 480px; 
+}
+body{
+    background-color: rgb(200, 222, 242);
+}
+.pro{
+    position: absolute;
+    width: 250px;
+    top: 100px;
+    left: 30px;
+}
+.y{
+    width: 250px;
+    position: absolute;
+    top: 90px;
+    right: 20px;
+}
+.trail{
+    width: 118px;
+    position: absolute;
+    top: 128px;
+    transform: rotate(11.2deg);
+    left: 63px;
+    height: 153px;
+}
+.twoimr{
+    position: absolute;
+    top:337px;
+    left: 129px;
+    width: 118px;
+    transform: rotate(-11.2deg);
+    height: 153px;
+}
+.swag{
+    width: 150px;
+    position: absolute;
+    top: 170px;
+    left: 580px;
+    height: 180px;
+}
+.love{
+     background-color: rgb(41, 44, 228);
+    text-decoration: none;
+    padding: 7px 14px;
+    color: white;
+    position: absolute;
+    top: 15px;
+    right: 10px;
+}

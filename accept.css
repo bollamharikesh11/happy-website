@@ -1,0 +1,39 @@
+
+.val{
+   width: 100vw;
+    height: 100vh;
+    background-image: url("images/Valentines\ day\ background\ in\ red\ color\ with\ love\ hearth\ and\ text\ bubble_\ Vector\ illustration.\ Perfect\ for\ wallpaper\,\ flyers\,\ invitation\,\ posters\,\ brochure\,\ banners_");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+
+}
+.head{
+    position: absolute;
+    top: 50px;
+    right: 350px;
+}
+.hf{
+    position: absolute;
+    top: 100px;
+    right: 350px;
+    width: 800px;
+    font-family: cursive;
+
+}
+.small{
+    width: 200px;
+    position: absolute;
+    top: 100px;
+    left: 950px;
+}
+.again{
+    background-color: rgb(252, 252, 252);
+    text-decoration: none;
+    padding: 7px 14px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 15px;
+    right: 10px;
+}

@@ -1,0 +1,35 @@
+.hsss{
+     width: 100vw;
+    height: 100vh;
+    background-image: url("images/hss.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+.haa{
+    position: absolute;
+    width: 600px;
+    top: 150px;
+    left: 300px;
+}
+.budi{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+.five{
+    width: 300px;
+    position: absolute;
+    top: 150px;
+    left:900px;
+}
+.end{
+     background-color: rgb(235, 131, 190);
+    text-decoration: none;
+    padding: 7px 14px;
+    color: rgb(8, 61, 100);
+    position: absolute;
+    right: 600px;
+    bottom: 40px; 
+}

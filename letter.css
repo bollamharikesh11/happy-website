@@ -1,0 +1,32 @@
+.let{
+    position: absolute;
+    height:100vh;
+    margin-left: 480px;
+}
+body{
+    background-color: rgb(255, 225, 186);
+}
+.para{
+    margin-left: 500px;
+    position: absolute;
+    margin-right: 450px ;
+    top:-10px
+    
+}
+.hand{
+    height: 100vh;
+    margin-bottom: -200px;
+}
+.dudu{
+    width: 300px;
+    margin-left: 600px;
+}
+.yes{
+  background-color: rgb(216, 125, 13);
+    text-decoration: none;
+    padding: 7px 14px;
+    color: rgb(9, 36, 239);
+    position: absolute;
+    right: 30px;
+    bottom: 40px; 
+}

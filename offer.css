@@ -1,0 +1,33 @@
+.page{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("images/page.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+.will{
+    position: absolute;
+    bottom: 180px;
+    left: 350px;
+}
+.tk{
+    position: absolute;
+    left: 450px;
+    top: 350px;
+    padding: 16px 32px;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+}
+.nahi{
+     position: absolute;
+    left: 700px;
+    top: 350px;
+    padding: 16px 32px;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+
+}

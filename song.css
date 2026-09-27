@@ -1,0 +1,66 @@
+.song{
+    position: absolute;
+    height: 100vh;
+    margin-left: 450px;
+    
+}
+.video{
+position: absolute;
+    height: 70vh;
+    width: 400px;
+    margin-left: 440px;
+    margin-top: 50px;
+}
+body{
+    background-color: rgb(233, 223, 210);
+}
+.frame{
+    width:250px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.fra{
+    width:300px;
+    margin-left: 640px;
+}
+.moveb{
+    background-color: rgb(118, 71, 14);
+    text-decoration: none;
+    padding: 7px 14px;
+    color: rgb(100, 168, 228);
+    margin-left: 1200PX;
+    margin-bottom:-100px ;
+}
+.oe{
+    position: absolute;
+    width: 121px;
+    top: 83px;
+    left: 41px;
+    transform: rotate(-20deg);
+    height: 160px;
+}
+.too{
+    width: 121px;
+    height: 160px;
+    position: absolute;
+    left: 90px;
+    top: 295px;
+    transform: rotate(20deg);
+    
+
+}
+.tri{
+    height: 140px;
+    width: 121px;
+    position: absolute;
+    top: 295px;
+    right: 75px;
+}
+.sev{
+    width: 100px;
+    position: absolute;
+    top: 105px;
+    right: 210px;
+    height: 130px;
+    width: 120px;
+}

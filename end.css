@@ -1,0 +1,47 @@
+.last{
+     width: 100vw;
+    height: 100vh;
+    background-image: url("images/Happy\ Valentine\ Day\ With\ Red\ Hearts\ Hang\ Lights\ On\ A\ Wood\ Background\ Copy\ Space\,\ Happy\ Valentine\ Day\,\ Red\ Hearts\,\ Copy\ Space\ Background\ Image\ And\ Wallpaper\ for\ Free\ Download.jfif");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+.mid{
+  position: absolute;
+    top: 280px;
+    right: 550px;
+    font-size:xx-large;
+    font-family: cursive ;
+
+}
+.ma{
+    position: absolute;
+    top: 200px;
+    right: 520px;
+    font-size: large;
+    
+}
+.hari{
+    position: absolute;
+    top: 320px;
+    right: 150px;
+    font-size: medium;
+}
+.wed{
+      position: absolute;
+    top: 500px;
+    right: 450px;
+    font-family: cursive;
+}
+.sai{
+    width: 230px;
+    position: absolute;
+    top: 440px;
+}
+.saito{
+    width: 120px;
+    position: absolute;
+    top: 360px;
+    right:10px;
+}

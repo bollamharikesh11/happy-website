@@ -1,0 +1,24 @@
+.bg{
+    height: 97vh;
+    width: 100%;
+}
+.ha{
+    position: absolute;
+    top: 90px;
+    right: 300px;
+}
+.gif{
+    width: 120px;
+    position: absolute;
+    top: 20px;
+    right: 130px;
+}
+.nextb{
+    background-color: rgb(139, 57, 57);
+    text-decoration: none;
+    padding: 7px 14px;
+    color: white;
+    position: absolute;
+    top: 55px;
+    right: 50px;
+}
